@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lounger Armchair
+* source:	https://sketchfab.com/3d-models/lounger-armchair-e9d9d87c32f144e2873765e66814f727
+* author:	Nikolay Kudrin (https://sketchfab.com/knik211)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lounger Armchair" (https://sketchfab.com/3d-models/lounger-armchair-e9d9d87c32f144e2873765e66814f727) by Nikolay Kudrin (https://sketchfab.com/knik211) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
