@@ -18,7 +18,7 @@ export default function App() {
       eventPrefix="client"
       camera={{ position: [0, 0, 4], fov: 40 }}
     >
-      {/* <OrbitControls /> */}
+      <OrbitControls />
       <ambientLight intensity={0.7} />
       <spotLight
         intensity={0.5}
