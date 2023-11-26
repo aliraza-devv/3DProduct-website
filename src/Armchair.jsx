@@ -17,8 +17,12 @@ export function ArmChair(props) {
   return (
     <group {...props} dispose={null}>
       <group  rotation={[ -1.67, 0, -2.4]} scale={0.001}>
-        <mesh castShadow receiveShadow geometry={nodes.Object_2.geometry} material={materials.Lounger_wire_115115115} />
-        <mesh castShadow receiveShadow geometry={nodes.Object_3.geometry} material={materials.Lounger_wire_115115115} />
+        <mesh castShadow receiveShadow geometry={nodes.Object_2.geometry} material={materials.Lounger_wire_115115115} >
+        <meshStandardMaterial color="#d4a373" />
+        </mesh>
+        <mesh castShadow receiveShadow geometry={nodes.Object_3.geometry} material={materials.Lounger_wire_115115115} >
+        <meshStandardMaterial color="#d4a373" />
+        </mesh>
       </group>
     </group>
   )
